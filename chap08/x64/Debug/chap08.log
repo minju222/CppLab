@@ -1,0 +1,28 @@
+﻿  1.dynamicObject.cpp
+  2.override.cpp
+  3.virtualFunction.cpp
+  4.pureVirtualFunction.cpp
+  5.virtualDestructor.cpp
+  polymorphismExample.cpp
+  polymorphismExample2.cpp
+C:\Users\student\source\repos\CppLab\chap08\polymorphismExample2.cpp(26,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'First ***'입니다.
+C:\Users\student\source\repos\CppLab\chap08\polymorphismExample2.cpp(26,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) First ***' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\student\source\repos\CppLab\chap08\polymorphismExample2.cpp(26,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'First **'입니다.
+C:\Users\student\source\repos\CppLab\chap08\polymorphismExample2.cpp(26,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) First **' 형식의 인수 2과(와) 충돌합니다.
+C:\Users\student\source\repos\CppLab\chap08\polymorphismExample2.cpp(26,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'First *'입니다.
+C:\Users\student\source\repos\CppLab\chap08\polymorphismExample2.cpp(26,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) First *' 형식의 인수 3과(와) 충돌합니다.
+C:\Users\student\source\repos\CppLab\chap08\polymorphismExample2.cpp(26,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'First'입니다.
+C:\Users\student\source\repos\CppLab\chap08\polymorphismExample2.cpp(26,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 5의 형식이 'First'입니다.
+C:\Users\student\source\repos\CppLab\chap08\polymorphismExample2.cpp(45,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'First *(*)[6]'입니다.
+C:\Users\student\source\repos\CppLab\chap08\polymorphismExample2.cpp(45,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) First *(*)[6]' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\student\source\repos\CppLab\chap08\polymorphismExample2.cpp(45,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'First **'입니다.
+C:\Users\student\source\repos\CppLab\chap08\polymorphismExample2.cpp(45,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) First **' 형식의 인수 2과(와) 충돌합니다.
+C:\Users\student\source\repos\CppLab\chap08\polymorphismExample2.cpp(45,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'First **'입니다.
+C:\Users\student\source\repos\CppLab\chap08\polymorphismExample2.cpp(45,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) First **' 형식의 인수 3과(와) 충돌합니다.
+C:\Users\student\source\repos\CppLab\chap08\polymorphismExample2.cpp(45,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'First *'입니다.
+C:\Users\student\source\repos\CppLab\chap08\polymorphismExample2.cpp(45,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) First *' 형식의 인수 4과(와) 충돌합니다.
+C:\Users\student\source\repos\CppLab\chap08\polymorphismExample2.cpp(45,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 5의 형식이 'First *'입니다.
+C:\Users\student\source\repos\CppLab\chap08\polymorphismExample2.cpp(45,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) First *' 형식의 인수 5과(와) 충돌합니다.
+C:\Users\student\source\repos\CppLab\chap08\polymorphismExample2.cpp(45,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 6의 형식이 'First'입니다.
+  코드를 생성하고 있습니다...
+  chap08.vcxproj -> C:\Users\student\source\repos\CppLab\x64\Debug\chap08.exe
